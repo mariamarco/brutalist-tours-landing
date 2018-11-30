@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>geometric shape illustration</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="shape_02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Group-2" transform="translate(25.000000, 25.000000)" stroke="#282828" stroke-width="4">
+            <polygon id="Shape" points="100 100 87.5 100 75 87.5 62.5 87.5 50 75 37.5 75 25 62.5 12.5 62.5 0 50 0 0 50 0 100 50"></polygon>
+            <polyline id="Shape" points="50 0 50 50 100 100"></polyline>
+            <path d="M50,50 L0,50" id="Shape"></path>
+        </g>
+    </g>
+</svg>
